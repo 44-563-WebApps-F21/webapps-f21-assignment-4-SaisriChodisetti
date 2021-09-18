@@ -34,3 +34,24 @@
 .allonby{
     color: purple;
 }
+
+table {
+    border: 1px solid black;
+    width: 70%;
+  }
+
+th {
+    border: 1px solid black;
+    color: brown;
+    text-align: center;
+}
+
+td {
+    border: 1px solid black;
+    color: forestgreen;
+    text-align: center;
+}
+
+tr:nth-child(even) {
+    background-color: wheat;
+}
