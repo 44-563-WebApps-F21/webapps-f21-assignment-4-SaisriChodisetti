@@ -1,0 +1,37 @@
+.speech{
+    font-family: 'Times New Roman';
+    font-size: 12px;
+    color: black;
+}
+
+.stage-direction{
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    color: black;
+    background-color: cadetblue;
+
+}
+
+.name{
+    font-family: 'Times New Roman';
+    font-size: 12px;
+    color: black;
+}
+
+.stage-direction:hover{
+    background-color: rosybrown;
+    color: royalblue;
+
+}
+
+.hunstanton{
+    color: aqua;
+}
+
+.gerald{
+    color: darkslategray;
+}
+
+.allonby{
+    color: purple;
+}
