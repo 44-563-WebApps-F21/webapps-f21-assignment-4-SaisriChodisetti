@@ -55,3 +55,8 @@ td {
 tr:nth-child(even) {
     background-color: wheat;
 }
+
+.hunstanton:hover{
+    text-shadow: 2px 2px 4px rebeccapurple;
+    border: solid 4px yellowgreen;
+}
