@@ -60,3 +60,22 @@ tr:nth-child(even) {
     text-shadow: 2px 2px 4px rebeccapurple;
     border: solid 4px yellowgreen;
 }
+
+ul.navbar-horizontal {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+ul.navbar-horizontal li {
+    float:left;
+    background: linear-gradient(110deg, rebeccapurple,yellowgreen);
+}
+ul.navbar-horizontal a {
+    display:block;
+    padding:20px;
+    color:thistle;
+}
+ul.navbar-horizontal a:hover {
+    background-color:wheat;
+    color:rgb(139, 156, 104);
+}
